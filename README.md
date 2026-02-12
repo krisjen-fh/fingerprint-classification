@@ -3,7 +3,9 @@
 
 <h3>Hybrid Feature Extraction using Gabor Filters and Convolutional Neural Networks</h3>
 
-Reference: https://doi.org/10.1016/J.COMPELECENG.2021.107387
+Reference: An intelligent 
+system for automatic fingerprint identification using feature fusion by Gabor 
+filter and deep learning (Nur-A-Alam, et al., 2021)
  </div>
  
 ## 📌 Overview

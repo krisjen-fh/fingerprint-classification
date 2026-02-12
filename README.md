@@ -1,7 +1,9 @@
 <div align="center">
-# 🚀 Fingerprint Real vs Altered Detection
+<h1>🚀 Fingerprint Real vs Altered Detection</h1>
 
-## Hybrid Feature Extraction using Gabor Filters and Convolutional Neural Networks
+<h3>Hybrid Feature Extraction using Gabor Filters and Convolutional Neural Networks</h3>
+
+Reference: https://doi.org/10.1016/J.COMPELECENG.2021.107387
  </div>
  
 ## 📌 Overview

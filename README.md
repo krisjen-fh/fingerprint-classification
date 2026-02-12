@@ -4,8 +4,9 @@
 <h3>Hybrid Feature Extraction using Gabor Filters and Convolutional Neural Networks</h3>
 
 Reference: An intelligent 
-system for automatic fingerprint identification using feature fusion by Gabor 
-filter and deep learning (Nur-A-Alam, et al., 2021)
+system for automatic fingerprint identification using feature fusion by Gabor filter and deep learning (Nur-A-Alam, et al., 2021)
+
+Dataset: [Fingerprint Dataset](https://www.kaggle.com/datasets/divanshu22/fingerprint-dataset/code)
  </div>
  
 ## 📌 Overview
